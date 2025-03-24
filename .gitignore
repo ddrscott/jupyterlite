@@ -1,2 +1,6 @@
 dist/
 .venv/
+
+.messages.md
+.responses.md
+.jupyterlite.doit.db

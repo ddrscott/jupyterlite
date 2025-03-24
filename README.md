@@ -9,6 +9,6 @@ All files uploaded are saved to the browser using IndexDB.
 All notebooks are stored in `files` subdir
 
 - **demos**:
-  - [bowling](files/bowling.ipynb) - Bowling score solver in DuckDB
+  - [bowling](files/demos/bowling.ipynb) - Bowling score solver in DuckDB
 - **stubs**:
-  - [duckdb](files/duckdb.ipynb) - Simple DuckDB starting point
+  - [duckdb](files/stubs/duckdb.ipynb) - Simple DuckDB starting point
